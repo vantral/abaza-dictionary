@@ -30,6 +30,8 @@
 
 `/path/to/your/python` -- обычно это просто `python` или `python3`.
 
+ВАЖНО: надо заменить бэкслэши Windows на обычные слэши в пути.
+
 - `/path/to/your/python "path/to/scripts/full_text.py" %GDWORD% "path/to/dic/abaza-russian.dsl"`
 - `/path/to/your/python "path/to/scripts/substring.py" %GDWORD% "path/to/dic/dictionary.dsl"`
 
