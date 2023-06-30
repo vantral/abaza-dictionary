@@ -33,6 +33,6 @@
 ВАЖНО: надо заменить бэкслэши Windows на обычные слэши в пути.
 
 - `/path/to/your/python "path/to/scripts/full_text.py" %GDWORD% "path/to/dic/abaza-russian.dsl"`
-- `/path/to/your/python "path/to/scripts/substring.py" %GDWORD% "path/to/dic/dictionary.dsl"`
+- `/path/to/your/python "path/to/scripts/substring.py" %GDWORD% "path/to/dic/abaza-russian.dsl"`
 
 Если что-то не получается, то идёте ко мне (антону).
